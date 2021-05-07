@@ -34,7 +34,7 @@ class Sider extends React.Component {
         mode="inline"
       >
         <SubMenu key="sub1" icon={<MailOutlined />} title="Navigation One">
-          <Menu.ItemGroup key="g1" title="Item 1">
+          <Menu.ItemGroup key="g1" title="任务列表">
             <Menu.Item key="1">Option 1</Menu.Item>
             <Menu.Item key="2">Option 2</Menu.Item>
           </Menu.ItemGroup>
